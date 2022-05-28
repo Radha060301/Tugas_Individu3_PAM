@@ -1,5 +1,5 @@
 # Tugas_Individu3_PAM
 
-![](home.jpg)
+![](screenshot/home.jpg)
 
-![](pencarian.jpg)
+![](screenshot/pencarian.jpg)
